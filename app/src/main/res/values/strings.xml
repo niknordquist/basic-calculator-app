@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="title">Basic Calculator</string>
+    <string name="first_integer">Enter first integer:</string>
+    <string name="second_integer">Enter second integer:</string>
+    <string name="add_text">+</string>
+    <string name="sub_text">-</string>
+    <string name="mult_text">*</string>
+    <string name="div_text">/</string>
 </resources>
